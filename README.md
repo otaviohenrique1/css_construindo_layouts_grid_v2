@@ -1,8 +1,8 @@
-# css_flexbox_layouts_responsivos_v2
+# css_construindo_layouts_grid_v2
 
 ## Descrição
 
-Projeto feito no curso de 'CSS: Flexbox e layouts responsivos' da Alura. Layout feito para o mobile, tablet e desktop. Revisão do conteudo.
+Projeto feito no curso de 'CSS: construindo layouts com Grid' da Alura. Layout feito para o mobile, tablet e desktop.
 
 ## Tecnologias
 
