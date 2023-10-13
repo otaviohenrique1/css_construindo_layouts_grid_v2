@@ -1,0 +1,14 @@
+.menu-lateral {
+  display: grid;
+  grid-template-rows: repeat(3, auto) 1fr; 
+  /* repeat(3, auto) => repete '3' vezes o 'auto' */
+  row-gap: 2rem;
+  /* row-gap => coloca espacamento entre as linhas */
+  /* column-gap => coloca espacamento entre as colunas */
+  /* gap => coloca espacamento entre as linhas e as colunas */
+}
+
+.menu-lateral__logo {
+  justify-self: center;
+  /* justify-self: center; => centraliza os elementos */
+}
