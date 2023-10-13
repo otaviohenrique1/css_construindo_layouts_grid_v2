@@ -12,3 +12,9 @@
   justify-self: center;
   /* justify-self: center; => centraliza os elementos */
 }
+
+
+.menu-lateral__link button {
+  display: flex;
+  align-items: center;
+}
