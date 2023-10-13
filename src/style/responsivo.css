@@ -22,12 +22,20 @@
         justify-self: center;
     }
 
+    .secao-horizontal .cartao {
+        /* Grid */
+        column-gap: .5rem;
+    }      
+
     .secao-horizontal .cartao__imagem {
         height: 4.58rem;
     }
  
     .secao-horizontal .cartao__titulo {
         font: 700 14px/20px Open Sans, sans-serif;
+        /* Grid */
+        align-self: center;
+        /* align-self: center; => Serve para ajustar dentro de um elemento na vertical no grid */
     }
 
     .secao-vertical .cartao {
@@ -50,6 +58,7 @@
     }
 
     .menu-lateral {
+        /* Grid */
         width: 208px;
     }
 
@@ -84,6 +93,7 @@
     }
 
     .menu-lateral {
+        /* Grid */
         width: 228px;
     }
 }
