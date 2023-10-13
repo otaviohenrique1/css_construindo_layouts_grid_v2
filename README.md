@@ -4,6 +4,10 @@
 
 Projeto feito no curso de 'CSS: construindo layouts com Grid' da Alura. Layout feito para o mobile, tablet e desktop.
 
+## Link de pagina
+
+- [Link](https://otaviohenrique1.github.io/css_construindo_layouts_grid_v2/)
+
 ## Tecnologias
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
